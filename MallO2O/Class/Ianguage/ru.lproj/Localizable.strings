@@ -1,0 +1,501 @@
+"Yuan"                                                     = "Юань";
+"TheNumberOf"                                              = "штука";
+"Cancel"                                                   = "Отмена";
+"Save"                                                     = "Сохранить";
+"Integral"                                                 = "накапительные баллы";
+"Money"                                                    = "¥";
+"Total"                                                    = "итого";
+"Commodity"                                                = "товар";
+"OK"                                                       = "подтвердить";
+"NO"                                                       = "нет";
+"Prompt"                                                   = "напоминать, напоминание";
+"Submit"                                                   = "подтвердить";
+"Search"                                                   = "Поиск";
+"Details"                                                  = "подробность";
+"CameraTitle"                                              = "выберите";
+"Photograph"                                               = "фотографировать";
+"Album"                                                    = "Фотоальбом";
+
+//  TabBar
+"tabBarHome"                                               = "начальная страница";
+"tabBarCate"                                               = "сортировка";
+"tabBarDiscover"                                           = "обнаружение";
+"tabbarShoppingCart"                                       = "Корзина";
+"tabbarMine"                                               = "Это мое";
+
+// MJ 刷新
+"headerMJRefreshStateIdle"                                 = "потяните вниз для обновления";
+"headerMJRefreshStatePulling"                              = "распустите для обновления";
+"footerMJRefreshStateIdle"                                 = "Нажмите кнопку или тянуть нагрузок для более";
+
+// SwpNetworkModel swpNetwork 数据模型
+
+"swpNetworkError"                                          = "Ошибка сети";
+"swpNetworkCommitDataing"                                  = "Передача данных...";
+"swpNetworkDeleteDataing"                                  = "Удаление данных...";
+"swpNetworkUpdateDataing"                                  = "Модификация данных...";
+"swpNetworkLogin"                                          = "Логин пользователя...";
+"swpNetworkGetDagaingTitle"                                = "получение...";
+"swpNetworkRefreshDataTitle"                               = "обновление...";
+"swpNetworkToLoadDataTitle"                                = "загрузка...";
+"swpNetworkNotData"                                        = "Больше нет данных";
+"swpNetworkDataNULL"                                       = "ошибка при получении данных";
+
+
+
+// HomeViewController      home  首页
+"homeNavigationTitle"                                      = "BTMALL";
+"homeRecommendedBusinessesTitle"                           = "Рекомендации";
+"homeDiscoverTheLatestVersionTitle"                        = "поиск обновлений";
+"homeDownloadTheUpdate"                                    = "Скачать обновление";
+
+
+// DicoverViewController    dicover 发现
+"dicoverNavigationTitle"                                   = "обнаружение";
+"dicoverBesom"                                             = "отсканировать QR-код";
+"dicoverSend"                                              = "Доставки";
+"dicoverOneMoney"                                          = "покупка за 1 юань";
+"dicoverShake"                                             = "встяска-выйграй баллы";
+"dicoverTurntable"                                         = "поворотный  диск";
+"dicoverBesomPromptTitle"                                  = "Штрих-код местоположения";
+"dicoverSendNavigationTitle"                               = "экспедитор";
+"dicoverShakeNavigationTitle"                              = "встряска";
+"dicoverTurntableNavigationTitle"                          = "поворотный диск";
+"dicoverOneMoneyNavigationTitle"                           = "покупка за 1 юань";
+
+// ShoppingCartViewController   shoppingCart  购物车
+"shoppingCartNavigationTitle"                              = "Корзина";
+
+// PushOrderViewController  pushOrder   提交订单
+"pushOrderNavigationTitle"                                 = "Отправить ваш заказ";
+
+"pushOrderPromptTitle"                                     = "платите в течения 15 минут после отправки заказа";
+"pushOrderCellHeaderAddressTitle"                          = "адрес получателя";
+"pushOrderCellHeaderTimeTitle"                             = "Время доставки";
+
+"pushOrderCellHeaderMyWalletTitle"                         = "Мой кошелек";
+"pushOrderCellHeaderPaymentTitle"                          = "Средства платежа";
+"pushOrderCellHeaderCommodityInformationTitle"             = "информация товаров";
+"pushOrderCellHeaderNoteInformationTitle"                  = "информация  примечаний";
+"pushOrderCellSelectTimeButtonTitle"                       = "Подтвержденные даты";
+"pushOrderCellTimePlaceholder"                             = "доставка  как можно скорее";
+
+"pushOrderCellPlaceholderAccountBalances"                  = "баланс  в  счёте";
+"pushOrderCellPlaceholderUseBalance"                       = "оплатить данный счет балансом";
+"pushOrderCellPlaceholderPaymentAlipay"                    = "Алипэй";
+"pushOrderCellPlaceholderPaymentWeChat"                    = "оплата  Wechat";
+"pushOrderCellPlaceHolderPaymentUnionpay"                  = "China UnionPay";
+"pushOrderCellPlaceholderPaymentPaymentInCash"             = "оплата  вне онлаин";
+"pushOrderCellPlaceholderViewProductList"                  = "просмотреть список товаров";
+"pushOrderCellPlaceholderFreight"                          = "транспортные  расходы";
+"pushOrderCommitButtonTitle"                               = "представление";
+"pushOrderUserAmountPaid"                                  = "сумма платежа:";
+"pushOrderCellPlaceholderNoteInformation"                  = "введите  информацию примечаний";
+
+// InputMarkMessageViewController  inputMark 提交订单 备注
+"inputMarkNavigationTitle"                                 = "Примечания";
+"inputMarkNotesPlaceholder"                                = "введите  информацию примечаний";
+"inputMarkNotesCommitButtonTitle"                          = "подтвердить";
+
+// MineViewController mine  我的
+"mineMyPoints"                                             = "мои баллы";
+"mineBusinessCollection"                                   = "избранные магазины";
+"mineGoodsCollection"                                      = "избранные товары";
+"mineHistoryGoods"                                         = "запись просмотра";
+"mineAllOrders"                                            = "Все заказы";
+"minePendingPayment"                                       = "предстоящий платёж";
+"mineInProgress"                                           = "В ходе";
+"mineEvaluation"                                           = "предстоящая оценка";
+"mineRefund"                                               = "Возврат денежного средства";
+"mineMyWallet"                                             = "Мой кошелек";
+"mineBalance"                                              = "Баланс";
+"mineBalanceRecharge"                                      = "Пополнение баланса";
+"mineTopRecords"                                           = "запись  пополнения";
+"mineOneOfMyPurchases"                                     = "моя  покупка за 1 юань";
+"mineNews"                                                 = "Новости";
+"mineAddressManagement"                                    = "управление адресом";
+"mineModifyPassword"                                       = "изменение пароля";
+"mineMore"                                                 = "Более";
+"mineClickOnLogin"                                         = "Нажмите 'Вход'";
+
+// EditPerInfoViewController editPerInfo 修改信息
+"editPerInfoNavigationTitle"                               = "поменять информацию";
+"editPerInfoAvatar"                                        = "фото профиля";
+"editPerInfoNickname"                                      = "Ник";
+"editPerInfoSex"                                           = "пол";
+"editPerInfoPleaseSelectGender"                            = "Пожалуйста, выберите пол";
+"editPerInfoMan"                                           = "мужской пол";
+"editPerInfoWoman"                                         = "женский  пол";
+"editPerInfoPhotos"                                        = "фотографировать";
+"editPerInfoPhotoAlbum"                                    = "Фотоальбом";
+
+// PointShopViewController pointShop 积分商城
+"pointShopNavigationTitle"                                 = "торговый центр накопленных баллов";
+"pointShopMyPoints"                                        = "мои баллы:";
+"pointShopExchangeRecords"                                 = "Записи обмена";
+"pointShopIntegralDescription"                             = "описание  накоплений баллов";
+
+// MyCollectionShopViewController myCollectionShop 收藏商家
+"myCollectionShopNavigationTitle"                          = "Избрать магазин";
+
+// HomeRecJumpViewController homeRecJump 商家详情
+"homeRecJumpBusinessDetailsNavigationTitle"                = "данные магазинов";
+"homeRecJumpCataTitle"                                     = "сортировка";
+"homeRecJumpDefaultSort"                                   = "сортировка по умолчанию";
+"homeRecJumpSalesSort"                                     = "объем продаж";
+"homeRecJumpTheLatestReleaseSort"                          = "Последний выпуск";
+"homeRecJumpHighestPriceSort"                              = "максимальная  цена";
+"homeRecJumpTheLowestPriceSort"                            = "минимальная цена";
+
+// MyCollectionViewController  myCollection 我的收藏
+"myCollectionNavigationTitle"                              = "Моя коллекция";
+
+// GoodsWebViewController 商品详情
+"productDetailsNavigationTitle"                            = "подробное описание товара";
+
+// MyOrderViewController  myOrder 我的订单
+"myOrderNavigationTitle"                                   = "мой заказ";
+"myOrderAll"                                               = "весь";
+"myOrderPendingPayment"                                    = "предстоящий платёж";
+"myOrderInProgress"                                        = "В ходе";
+"myOrderEvaluation"                                        = "предстоящая оценка";
+"myOrderRefund"                                            = "Возврат";
+"myOrderFinish"                                            = "Завершено";
+"myOrderDeleteErrorMessage"                                = "не разрешать  удалить текущий заказ";
+"myOrderDeleteSuccessMessage"                              = "Удалено успешно";
+
+// OrderDetailViewController orderDetail 订单 详情
+"orderDetailNavigationTitle"                               = "подробное описание заказа";
+
+// OrderDetailViewController orderDeta  充值中心
+"rechargeCenterNavigationTitle"                            = "цетр  пополнения";
+
+// OrderDetailViewController  orderDetail 充值记录
+"rechargeRecordNavigationTitle"                            = "запись  пополнения";
+
+// OrderDetailViewController  orderDetail 我的一元购
+"oneDollarForMeNavigationTitle"                            = "моя  покупка за 1 юань";
+
+// MessageViewController   message  消息
+"messageNewsNavigationTitle"                               = "Новости";
+"messageInfoNavigationTitle"                               = "подробности, новости";
+"messageNewsClearAllTitle"                                 = "Очистить все сообщения";
+
+// AdressDetailController adressDetail 地址管理
+"adressDetailNavigationTitle"                              = "управление адресом";
+"adressDetailCellAddressTitle"                             = "Адрес:";
+"adressDetailCellConsigneeTitle"                           = "Грузополучателя:";
+"adressDetailCellTelephoneTitle"                           = "Телефон:";
+"adressDetailCellEditTitle"                                = "Редактор";
+"adressDetailCellDeleteTitle"                              = "Удалить";
+
+
+// AddAdrsInforViewController  addAdrsInforCell Title  Placeholder 添加地址 | 和编辑地址
+"addAdrsInforAddAddressNavigationTitle"                    = "редактировать адрес";
+"addAdrsInforUpdateAddressNavigationTitle"                 = "поменять адрес";
+"addAdrsInforCellContactsTitle"                            = "контактное лицо";
+"addAdrsInforCellContactsPlaceholder"                      = "ФИО";
+"addAdrsInforCellReceiptAddressTitle"                      = "адрес грузополучателя";
+"addAdrsInforCellReceiptAddressPlaceholder"                = "Пожалуйста, выберите школу, здания или микрорайон";
+"addAdrsInforCellAddressInDetailTitle"                     = "точный адрес";
+"addAdrsInforCellAddressInDetailPlaceholder"               = "Пожалуйста, введите адрес";
+"addAdrsInforCellTelephoneTitle"                           = "Номер мобильного телефона";
+"addAdrsInforCellTelephonePlaceholder"                     = "Введите контактный телефон";
+"addAdrsInforCellCkeckTitle"                               = "Пожалуйста, введите действительный номер мобильного телефона";
+
+// ChangePassViewController changePass 修改密码
+"changePassModifyPasswordNavigationTitle"                  = "изменение пароля";
+"changePassOldPasswordPlaceholder"                         = "пожалуйста введите старый пароль";
+"changePassInputNewPasswordPlaceholder"                    = "Пожалуйста, введите новый пароль";
+"changePassConfirmNewPasswordPlaceholder"                  = "Подтвердите новый пароль";
+"changePassSubmitButton"                                   = "передать";
+"changePassCheckNewPasswordsTitle"                         = "Новые пароли не совпадают";
+"changePassCkeckOldPasswordsTitle"                         = "Пожалуйста, подтвердите ваш пароль";
+"changePassCkeckNewPasswordsNULLTitle"                     = "Пожалуйста, введите новый пароль";
+"changePassCkeckOlePasswordsNULLTitle"                     = "пожалуйста введите старый пароль";
+
+
+// MoreViewController  more 更多
+"moreNavigationTitle"                                      = "Более";
+"moreAboutApp"                                             = "о APP";
+"morePrivacyRights"                                        = "приват";
+"moreFeedback"                                             = "обратная связь";
+"moreGiveMeAGrade"                                         = "оцените меня";
+"moreUseHelp"                                              = "руководство по применению";
+"moreCodeSharing"                                          = "поделиться qr-кодом";
+"moreClearCache"                                           = "Очистить кэш";
+"moreExitLoginPromptTitle"                                 = "Вы уверены, что вы хотите выйти？";
+"moreExitLogin"                                            = "Выход";
+"moreExitLoginSuccess"                                     = "выход успешен";
+"moreClearCachePromptTitle"                                = "Это очистит";
+"moreClearCacheSuccessPromptTitle"                         = "Успешно очистить кэш";
+
+// OpinionViewController opinion 意见反馈
+"opinionPlaceholder"                                       = "Пожалуйста, введите содержание отзыва⋯";
+"opinionTextMaxSize"                                       = "Введите максимум 250 слов";
+
+
+// LoginViewController login 登录
+"loginNavigationTitle"                                     = "Войти";
+"loginRegister"                                            = "Регистрация";
+"loginAccountPlaceholder"                                  = "Пожалуйста, введите E-mail";
+"loginPasswordPlaceholder"                                 = "Пожалуйста, введите пароль";
+"loginRememberPassword"                                    = "Запомнить мой пароль";
+"loginForgetPassword"                                      = "Забыли пароль?";
+"loginButtonTitle"                                         = "Войти";
+"loginThirdPartyLoginPromptTitle"                          = "войти через логин третьей стороны";
+"loginCleckAccountNULLMessage"                             = "поле 'электронная почта' не может быть пустым ";
+"loginCleckPasswordNULLMessage"                            = "поле 'Пароль' не может быть пустым";
+"loginCleckAccount"                                        = "Пожалуйста, введите действительный адрес электронной почты";
+"loginSuccess"                                             = "Успешный вход";
+
+// RegistViewController regist 注册
+"registNavigationTitle"                                    = "Регистрация";
+"registAccountPlaceholder"                                 = "Пожалуйста, введите E-mail";
+"registVerificationCodePlaceholder"                        = "Проверочный код";
+"registGetVerificationCodeButtonTitle"                     = "Получить код";
+"registPasswordAccountPlaceholder"                         = "Пожалуйста, введите пароль";
+"registButtonTitle"                                        = "Регистрация";
+
+
+
+// ThirdRegistViewController thirdRegist 三方绑定
+"thirdRegistNavigationTitle"                               = "Три стороны связаны";
+
+
+// ForgetPassViewController forgetPassword  忘记密码
+"forgetPasswordNavigationTitle"                            = "Забыли пароль";
+"forgetPasswordAccountPlaceholder"                         = "Пожалуйста, введите E-mail";
+"forgetPasswordVerificationCodePlaceholder"                = "Проверочный код";
+"forgetPasswordGetVerificationCodeButtonTitle"             = "Получить код";
+"forgetPasswordNextStepButtonTitle"                        = "Следующий шаг";
+"forgetPasswordRetransmission"                             = "Переслать";
+"forgetPasswordCheckVerificationCode"                      = "CAPTCHA ошибка";
+
+
+// ChangeForgetPassViewController changeForgetPassword 忘记密码 修改密码
+"changeForgetPasswordNavigationTitle"                      = "Забыли пароль";
+"changeForgetPasswordAccountPlaceholder"                   = "Пожалуйста, введите ваше имя пользователя";
+"changeForgetPasswordPleaseNewPassword"                    = "Новый пароль";
+"changeForgetPasswordPleaseConfirmThePassword"             = "подтвердите пароль";
+
+
+// CateGoodsViewController  cateGoods 首页分类
+"cateGoodsSalesVolume"                                     = "Продажи";
+"cateGoodsPraise"                                          = "Похвалы";
+"cateGoodsPrice"                                           = "Цена";
+"cateGoodsScreen"                                          = "Фильтр";
+
+// SelectTypeViewController selectType 筛选
+
+"selectTypeNavigationTitle"                                = "Фильтр";
+"selectTypeSubmitButtonTitle"                              = "представление";
+"selectTypeKeywordTitle"                                   = "Ключевое слово";
+"selectTypeKeywordPlaceholder"                             = "Введите ключевое слово для поиска";
+"selectTypeHighPricePlaceholder"                           = "Высокая цена";
+"selectTypeLowPricePlaceholder"                            = "Низкая цена";
+"selectTypeAllTitle"                                       = "весь";
+
+// NearByShopViewController nearByShop 附近商家
+
+"nearByShopNavigationTitle"                                = "местонахождение магазинов";
+
+"nearByShopLocationErrorTitle"                             = "поиск местонахождения магазинов неудался";
+"nearByShopError01Title"                                   = "широта и доолгота не получены";
+"nearByShopNearbyTitle"                                    = "вблизи";
+"nearByShopCateTitle"                                      = "Классификация";
+
+// TeamBuyingViewController teamBuying 团购
+"teamBuyingNavigationTitle"                                = "групповая  покупка";
+"teamBuyingCateTitle"                                      = "Классификация";
+"teamBuyingSorting"                                        = "Сортировка";
+"teamBuyingSales"                                          = "объем продаж";
+"teamBuyingTheLatestRelease"                               = "Последний выпуск";
+"teamBuyingHighestPrice"                                   = "максимальная  цена";
+"teamBuyingTheLowestPrice"                                 = "минимальная цена";
+
+
+// CateJumpViewController cateJump 抢购
+"cateJumpNavigationTitle"                                  = "закупочный ажиотаж";
+"cateJumpSoldTitle"                                        = "Продано::";
+
+// SeleRankViewController seleRank 排行榜
+
+"seleRankNavigationTitle"                                  = "рейтинг";
+
+// SearchHisViewController searchHis 首页搜索
+"searchHisSearchResultsNavigationTitle"                    = "Ресультаты поиска";
+"searchHisSearchBarPlaceholder"                            = "Пожалуйста, введите название товара для поиска";
+"searchHisHotCommodityTitle"                               = "популярный товар";
+"searchHisSearchForRecordsTitle"                           = "запись поиска";
+"searchHisSearchBarCheckInputText"                         = "Введите, пожалуйста, что вы ищете";
+
+
+// CateViewController cate 分类
+"cateSearchBarPlaceholder"                                 = "поиск названий товаров";
+
+// ShopTravelServeViewController  shopTravelServe Title 商旅服务
+"shopTravelServeNavigationTitle"                           = "Обслуживание деловых поездок";
+"shopTravelServeAirTicketBookingTitle"                     = "покупка авиабилетов";
+"shopTravelServeTrainTicketReservationTitle"               = "покупка ж/д билетов";
+"shopTravelServeInvitationServiceTitle"                    = "оформление приглашений";
+"shopTravelServePick-upServiceTitle"                       = "сервис встреча поезда";
+"shopTravelServePurchasingServiceTitle"                    = "агентские услуги по международной торговле";
+"shopTravelServeHotelsTitle"                               = "бронирование отелей";
+"shopTravelServeDiningReservationsTitle"                   = "бронирование ресторанов";
+
+
+// PlaneBookViewController planeBook 机票服务
+"planeBookNavigationTitle"                                 = "Услуги по продаже билетов";
+
+"planeBookOne-WayTitle"                                    = "в одну сторону";
+"planeBookRoundTripTitle"                                  = "Туда и обратно";
+"planeBookDepartureCityTitle"                              = "Город отправления";
+
+"planeBookArrivalCityTitle"                                = "Город прибытия";
+"planeBookSelectADateTitle"                                = "Выберите дату";
+"planeBookTripDatesTitle"                                  = "дата отправления";
+
+"planeBookReturnTimeTitle"                                 = "дата возвращения";
+"planeBookSearchButtonTitle"                               = "Поиск";
+
+"planeBookPleaseChooseTime"                                = "Пожалуйста, выберите время";
+
+
+// BackJourneyViewController backJourney 航班列表
+"backJourneyNavigationTitle"                               = "список  рейсов";
+
+
+// ChoosePassengerViewController choosePassenger 选择乘机人
+"choosePassengerNavigationTitle"                           = "выбрать пассажира";
+"choosePassengerAddedOpportunityToPeople"                  = "добавить пассажира";
+"choosePassengerCellPassportNumber"                        = "Номер паспорта：";
+"choosePassengerCellEditor"                                = "Редактор";
+
+// AddPassengerViewController addPassenger  添加乘机人
+"addPassengerNavigationTitle"                              = "добавить пассажира";
+"addPassengerCellNameTitle"                                = "Имя";
+"addPassengerCellPlaceholder"                              = "Пожалуйста, введите ваше имя";
+"addPassengerCellPassportNumbeTitle"                       = "Номер паспорта";
+"addPassengerCellPleaseEnterYourPassportNumberPlaceholder" = "Пожалуйста, введите ваш номер паспорта";
+"addPassengerCellCountryCitizenshipTitle"                  = "гражданство";
+"addPassengerCellBirthdayTitle"                            = "День рождения";
+
+// InvitationServerViewController invitationServer  邀请函服务
+"invitationServerNavigationTitle"                          = "оформление приглашений";
+"invitationServerCellNameTitle"                            = "Имя";
+"invitationServerCellNamePlaceholder"                      = "Пожалуйста, введите ваше имя";
+"invitationServerCellTelTitle"                             = "номер телефона";
+"invitationServerCellTelPlaceholder"                       = "введите номер телефона";
+"invitationServerE-mailTitle"                              = "Почтовый ящик";
+"invitationServerE-mailPlaceholder"                        = "Пожалуйста, введите E-mail";
+"invitationServerCountryCitizenshipTitle"                  = "гражданство";
+"invitationServerSexTitle"                                 = "пол";
+"invitationServerBirthdayTitle"                            = "День рождения";
+"invitationServerDateOfEntryTitle"                         = "время  въезда";
+"invitationServerInvitationTypesTitle"                     = "тип приглашения";
+"invitationServerValidityOfTheInvitationTitle"             = "время оформления приглашения ";
+
+"invitationServerPassportPhotosTitle"                      = "фотография на паспорт  и  на визу";
+"invitationServerVisaPhotosTitle"                          = "фото для визы";
+"invitationServerInsurancePriceTitle"                      = "Стоимость страхования";
+"invitationServerSexTitle"                                 = "Пожалуйста, выберите пол";
+"invitationServerSexManTitle"                              = "мужской пол";
+"invitationServerSexWomanTitle"                            = "женский  пол";
+"invitationServerInvitationTypeTitle"                      = "выбирать тип приглашения";
+"invitationServerGroupTitle"                               = "Группа";
+"invitationServerOnceAPersonTitle"                         = "однократный";
+"invitationServerPersonalManyTimesTitle"                   = "многократный";
+"invitationServerValidityPeriodGroupTitle"                 = "Период действия ( Группа ) ";
+"invitationServerValidityPeriod10Days"                     = "10 дней";
+"invitationServerValidityPeriod15Days"                     = "15 дней";
+"invitationServerValidityPeriod30Days"                     = "30 дней";
+
+"invitationServerValidityPeriodOnceAPersonTitle"           = "Период действия ( однократный )";
+"invitationServerValidityPeriodPersonalManyTimesTitle"     = "Период действия ( многократный )";
+"invitationServerValidityPeriodHalfAYear"                  = "Полгода";
+"invitationServerValidityPeriodAYear"                      = "Год";
+"invitationServerCheckInputMessage"                        = "Пожалуйста, введите полную информацию";
+
+// CarServerViewController carServer  接车服务
+"carServerNavigationTitle"                                 = "сервис встреча поезда";
+"carServerCellDateOfEntryTitle"                            = "дата  въезда";
+"carServerCellNationalityTitle"                            = "гражданство";
+"carServerCellNameTitle"                                   = "ФИО";
+"carServerCellNamePlaceholder"                             = "Пожалуйста, введите ваше имя";
+"carServerCellTelephoneTitle"                              = "номер телефона";
+"carServerCellTelephonePlaceholder"                        = "введите номер телефона";
+"carServerCellLicensePlateNumberTitle"                     = "Идентификационный номер транспортного средства";
+"carServerCellLicensePlateNumberPlaceholder"               = "Введите идентификационный номер транспортного средства";
+"carServerCellFrameNumberTitle"                            = "номер рамы транспортного средства";
+"carServerCellFrameNumberPlaceholder"                      = "введите номер рамы транспортного средства";
+"carServerCellEngineNumberTitle"                           = "Номер двигателя";
+"carServerCellEngineNumberPlaceholder"                     = "введите  номер двигателя";
+"carServerCellModelsTitle"                                 = "модель транспортного средства";
+"carServerCellDrivingLicensePhotoTitle"                    = "фото водительских прав";
+"carServerCellPassportPhotoDriverTitle"                    = "фото паспорта водителя";
+"carServerCellDestinationTitle"                            = "место назначения";
+"carServerCellDestinationPlaceholder"                      = "Введите место назначения";
+"carServerCellEntryModeTitle"                              = "тип въезда";
+"carServerCellShiftTitle"                                  = "рейс";
+"carServerCellArrivalTimeTitle"                            = "Время прибытия";
+"carServerCellPriceTitle"                                  = "Цена";
+"carServerCheckUserInputMessageTitle"                      = "Пожалуйста, введите полную информацию";
+"carServerTicketAirImbalance"                              = "введите рейс (въезд в автодороге не заполнить)";
+"carServerHighway"                                         = "автодорога";
+"carServerPlane"                                           = "Рейс";
+"carServerTrain"                                           = "Поезд";
+"carServerChooseEnterACountryType"                         = "Пожалуйста, выберите тип въезда";
+"carServerChooseCarType"                                   = "Пожалуйста, выберите модель транспортного средства";
+"carServerFiveSeatCar"                                     = "5 мест";
+"carServerSevenSeatCar"                                    = "7-15 мест";
+"carServerTwelveSeatCar"                                   = "более чем  15 мест";
+
+// HotboomServeViewController hotboomServe Title Placeholder 接车服务
+"hotboomServeNavigationTitle"                              = "услуги  провождения машины";
+"hotboomServeCellReferencePictureTitle"                    = "Ссылка изображений";
+"hotboomServeCellCommodityNameTitle"                       = "Наименование товара";
+"hotboomServeCellCommodityNamePlaceholder"                 = "введите  название товаров";
+"hotboomServeCellPriceRangeTitle"                          = "Диапозон цен";
+"hotboomServeCellDetailedRequirementsTitle"                = "Подробные требования";
+"hotboomServeCellFullNameTitle"                            = "Имя  фамирия";
+"hotboomServeCellFullNamePlaceholder"                      = "Пожалуйста, введите ваше имя";
+"hotboomServeCellTelephoneTitle"                           = "номер телефона";
+"hotboomServeCellTelephonePlaceholder"                     = "введите номер телефона";
+"hotboomServeCellE-mailTitle"                              = "Почтовый ящик";
+"hotboomServeCellE-mailPlaceholder"                        = "Пожалуйста, введите E-mail";
+"hotboomServeCellPassportNumberTitle"                      = "Номер паспорта";
+"hotboomServeCellPassportNumberPlaceholder"                = "Номер паспорта";
+"hotboomServeViewControllerDetailNeedText"                 = "Характиристики требуемых товаров";
+"hotboomServeViewControllerDetailNeedNavigaitonTitle"      = "Подробные требования";
+"hotboomServeViewControllerAddPickture"                    = "Пожалуйста, добавьте изображение";
+"hotboomServeViewControllerPriceRange"                     = "Пожалуйста, введите правильный ценовой диапазон";
+
+// HotboomPriceRangeViewController hotboomPriceRange  价格范围
+"hotboomPriceRangeNavigationTitle"                         = "Диапазон цен";
+
+// BigTradeViewController bigTrade  大件贸易
+"bigTradeNavigationTitle"                                  = "Крупные торговые";
+"bigTradeAllCategoriesTitle"                               = "Все классификации";
+"bigTradeDefaultSortTitle"                                 = "сортировка по умолчанию";
+"bigTradeHighestPriceSortTitle"                            = "Самая высокая цена";
+"bigTradeLowestPriceSortTitle"                             = "Низкая цена";
+
+// BigTradeInfoViewController bigTradeInfo 大件贸易 详情
+"bigTradeInfoNavigationTitle"                              = "Детали";
+
+// BigTradeOrderViewController bigTradeOrder Title Placeholder 提交订单
+"bigTradeOrderNavigationTitle"                             = "Отправить ваш заказ";
+"bigTradeOrderReceiptAddressTitle"                         = "адрес получателя";
+"bigTradeOrderCommodityInformationTitle"                   = "информация товаров";
+"bigTradeOrderRemarkInformationTitle"                      = "информация  примечаний";
+"bigTradeOrderMoneyTitle"                                  = "Общая сумма:";
+"bigTradeOrderRemarksPlaceholder"                          = "Пожалуйста, введите комментарий";
+
+// BigTradeOrderSeccess bigTradeOrderSeccess
+"bigTradeOrderSeccessNavigationTitle" = "отправка успешна";
+"bigTradeOrderSeccessReturnHomeButtonTitle" = "вернуться на главную страницу";
+
+
+// SeeGoodsHistoryViewController 浏览记录控制器
+//"seeGoodsHistoryViewControllerNavigationTitle"             = "запись просмотра";

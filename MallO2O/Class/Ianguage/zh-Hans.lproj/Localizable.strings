@@ -1,0 +1,586 @@
+/*
+  Localizable.strings
+  MallO2O
+
+  Created by songweiping on 16/3/9.
+  Copyright © 2016年 songweipng. All rights reserved.
+*/
+
+
+// Tool
+
+"Yuan"                                                     = "元";
+"TheNumberOf"                                              = "件";
+"Cancel"                                                   = "取消";
+"Save"                                                     = "保存";
+"Integral"                                                 = "积分";
+"Money"                                                    = "￥";
+"Total"                                                    = "总计";
+"Commodity"                                                = "商品";
+"OK"                                                       = "确定";
+"NO"                                                       = "否";
+"Prompt"                                                   = "提示";
+"Submit"                                                   = "提交";
+"Search"                                                   = "搜索";
+"Details"                                                  = "详情";
+"CameraTitle"                                              = "请选择";
+"Photograph"                                               = "拍照";
+"Album"                                                    = "相册";
+
+//  TabBar
+"tabBarHome"                                               = "首页";
+"tabBarCate"                                               = "分类";
+"tabBarDiscover"                                           = "发现";
+"tabbarShoppingCart"                                       = "购物车";
+"tabbarMine"                                               = "我的";
+
+// MJ 刷新
+"headerMJRefreshStateIdle"                                 = "下拉可以刷新";
+"headerMJRefreshStatePulling"                              = "松开立即刷新";
+"footerMJRefreshStateIdle"                                 = "点击或上拉加载更多";
+
+// SwpNetworkModel swpNetwork 数据模型
+
+"swpNetworkError"                                          = "网络异常";
+"swpNetworkCommitDataing"                                  = "数据提交中...";
+"swpNetworkDeleteDataing"                                  = "数据删除中...";
+"swpNetworkUpdateDataing"                                  = "数据修改中...";
+"swpNetworkLogin"                                          = "用户登陆中...";
+"swpNetworkGetDagaingTitle"                                = "努力获取中...";
+"swpNetworkRefreshDataTitle"                               = "努力刷新中...";
+"swpNetworkToLoadDataTitle"                                = "努力加载中...";
+"swpNetworkNotData"                                        = "没有更多数据";
+"swpNetworkDataNULL"                                       = "获取数据异常";
+
+
+
+// HomeViewController      home  首页
+"homeNavigationTitle"                                      = "陆科商城";
+"homeRecommendedBusinessesTitle"                           = "推荐商品";
+"homeDiscoverTheLatestVersionTitle"                        = "发现最新版本";
+"homeDownloadTheUpdate"                                    = "下载更新";
+"homeViewControllerImageThree"                             = "金融服务";
+
+
+// DicoverViewController    dicover 发现
+"dicoverNavigationTitle"                                   = "发现";
+"dicoverBesom"                                             = "扫一扫";
+"dicoverSend"                                              = "派送";
+"dicoverOneMoney"                                          = "一元购 - 赢奖品";
+"dicoverShake"                                             = "摇一摇 - 赚积分";
+"dicoverTurntable"                                         = "大转盘 - 赢积分";
+"dicoverBesomPromptTitle"                                  = "请将条形码置于框中";
+"dicoverSendNavigationTitle"                               = "全民派送员";
+"dicoverShakeNavigationTitle"                              = "摇一摇";
+"dicoverTurntableNavigationTitle"                          = "开心大转盘";
+"dicoverOneMoneyNavigationTitle"                           = "一元购";
+
+// ShoppingCartViewController   shoppingCart  购物车
+"shoppingCartNavigationTitle"                              = "购物车";
+
+// PushOrderViewController  pushOrder   提交订单
+"pushOrderNavigationTitle"                                 = "提交订单";
+
+"pushOrderPromptTitle"                                     = "请您在提交订单后15分钟内完成支付";
+"pushOrderCellHeaderAddressTitle"                          = "收货地址";
+"pushOrderCellHeaderTimeTitle"                             = "送货时间";
+
+"pushOrderCellHeaderMyWalletTitle"                         = "我的钱包";
+"pushOrderCellHeaderPaymentTitle"                          = "支付方式";
+"pushOrderCellHeaderCommodityInformationTitle"             = "商品信息";
+"pushOrderCellHeaderNoteInformationTitle"                  = "备注信息";
+"pushOrderCellSelectTimeButtonTitle"                       = "确认日期";
+"pushOrderCellTimePlaceholder"                             = "尽快送达";
+
+"pushOrderCellPlaceholderAccountBalances"                  = "账户余额";
+"pushOrderCellPlaceholderUseBalance"                       = "本次支付使用余额";
+"pushOrderCellPlaceholderPaymentAlipay"                    = "支付宝";
+"pushOrderCellPlaceholderPaymentWeChat"                    = "微信支付";
+"pushOrderCellPlaceHolderPaymentUnionpay"                  = "PayPal支付";
+"pushOrderCellPlaceholderPaymentPaymentInCash"             = "线下支付";
+"pushOrderCellPlaceholderViewProductList"                  = "查看商品清单";
+"pushOrderCellPlaceholderFreight"                          = "运 费";
+"pushOrderCommitButtonTitle"                               = "提交";
+"pushOrderUserAmountPaid"                                  = "支付金额:";
+"pushOrderCellPlaceholderNoteInformation"                  = "请输入备注信息";
+
+// InputMarkMessageViewController  inputMark 提交订单 备注
+"inputMarkNavigationTitle"                                 = "备 注";
+"inputMarkNotesPlaceholder"                                = "请输入备注信息";
+"inputMarkNotesCommitButtonTitle"                          = "确 定";
+
+// MineViewController mine  我的
+"mineMyPoints"                                             = "我的积分";
+"mineBusinessCollection"                                   = "商家收藏";
+"mineGoodsCollection"                                      = "商品收藏";
+"mineHistoryGoods"                                         = "浏览记录";
+"mineAllOrders"                                            = "全部订单";
+"minePendingPayment"                                       = "待付款";
+"mineInProgress"                                           = "进行中";
+"mineEvaluation"                                           = "待评价";
+"mineRefund"                                               = "退款";
+"mineMyWallet"                                             = "我的钱包";
+"mineBalance"                                              = "余额";
+"mineBalanceRecharge"                                      = "余额充值";
+"mineTopRecords"                                           = "充值记录";
+"mineDestineRecord"                                        = "预定记录";
+"mineNews"                                                 = "消息";
+"mineOnline"                                               = "在线客服";
+"mineAddressManagement"                                    = "地址管理";
+"mineModifyPassword"                                       = "修改密码";
+"mineMore"                                                 = "更多";
+"mineClickOnLogin"                                         = "请点击登录";
+
+// EditPerInfoViewController editPerInfo 修改信息
+"editPerInfoNavigationTitle"                               = "修改信息";
+"editPerInfoAvatar"                                        = "头像";
+"editPerInfoNickname"                                      = "昵称";
+"editPerInfoSex"                                           = "性别";
+"editPerInfoemail"                                         = "e-mail";
+"editPerInfoPassport"                                      = "护照";
+"editPerInfoPleaseSelectGender"                            = "请选择性别";
+"editPerInfoMan"                                           = "男";
+"editPerInfoWoman"                                         = "女";
+"editPerInfoPhotos"                                        = "拍照";
+"editPerInfoPhotoAlbum"                                    = "相册";
+
+
+// PointShopViewController pointShop 积分商城
+"pointShopNavigationTitle"                                 = "积分商城";
+"pointShopMyPoints"                                        = "我的积分:";
+"pointShopExchangeRecords"                                 = "兑换记录";
+"pointShopIntegralDescription"                             = "积分说明";
+"ExchangepointShopExchange"                                = "确认兑换";
+
+// MyCollectionShopViewController myCollectionShop 收藏商家
+"myCollectionShopNavigationTitle"                          = "收藏商家";
+
+// HomeRecJumpViewController homeRecJump 商家详情
+"homeRecJumpBusinessDetailsNavigationTitle"                = "商家详情";
+"homeRecJumpCataTitle"                                     = "分类";
+"homeRecJumpDefaultSort"                                   = "默认排序";
+"homeRecJumpSalesSort"                                     = "销量";
+"homeRecJumpTheLatestReleaseSort"                          = "最新发布";
+"homeRecJumpHighestPriceSort"                              = "最高价格";
+"homeRecJumpTheLowestPriceSort"                            = "最低价格";
+
+// MyCollectionViewController  myCollection 我的收藏
+"myCollectionNavigationTitle"                              = "我的收藏";
+
+// GoodsWebViewController 商品详情
+"productDetailsNavigationTitle"                            = "商品详情";
+
+// MyOrderViewController  myOrder 我的订单
+"myOrderNavigationTitle"                                   = "我的订单";
+"myOrderAll"                                               = "全部";
+"myOrderPendingPayment"                                    = "待付款";
+"myOrderInProgress"                                        = "进行中";
+"myOrderEvaluation"                                        = "待评价";
+"myOrderRefund"                                            = "退款";
+"myOrderFinish"                                            = "已完成";
+"myOrderDeleteErrorMessage"                                = "当前订单不可删除";
+"myOrderDeleteSuccessMessage"                              = "删除成功";
+
+// OrderDetailViewController orderDetail 订单 详情
+"orderDetailNavigationTitle"                               = "订单详情";
+
+// OrderDetailViewController orderDeta  充值中心
+"rechargeCenterNavigationTitle"                            = "充值中心";
+
+// OrderDetailViewController  orderDetail 充值记录
+"rechargeRecordNavigationTitle"                            = "充值记录";
+
+// OrderDetailViewController  orderDetail 预订记录
+"orderDetailDestineRecordNavigationTitle"                  = "预定记录";
+
+// MessageViewController   message  消息
+"messageNewsNavigationTitle"                               = "消息";
+"messageInfoNavigationTitle"                               = "消息详情";
+"messageNewsClearAllTitle"                                 = "清空全部消息";
+
+// AdressDetailController adressDetail 地址管理
+"addAdressDetailTitle"                                     = "添加地址";
+"adressDetailNavigationTitle"                              = "地址管理";
+"adressDetailCellAddressTitle"                             = "地  址:";
+"adressDetailCellConsigneeTitle"                           = "收货人:";
+"adressDetailCellTelephoneTitle"                           = "电  话:";
+"adressDetailCellEditTitle"                                = "编辑";
+"adressDetailCellDeleteTitle"                              = "删除";
+
+
+// AddAdrsInforViewController  addAdrsInforCell Title  Placeholder 添加地址 | 和编辑地址
+"addAdrsInforAddAddressNavigationTitle"                    = "编辑地址";
+"addAdrsInforUpdateAddressNavigationTitle"                 = "修改地址";
+"addAdrsInforCellContactsTitle"                            = "联系人";
+"addAdrsInforCellContactsPlaceholder"                      = "请输入您的姓名";
+"addAdrsInforCellReceiptAddressTitle"                      = "收货地址";
+"addAdrsInforCellReceiptAddressPlaceholder"                = "请输入地址";
+"addAdrsInforCellAddressInDetailTitle"                     = "详细地址";
+"addAdrsInforCellAddressInDetailPlaceholder"               = "请输入详细地址";
+"addAdrsInforCellTelephoneTitle"                           = "手机号";
+"addAdrsInforCellTelephonePlaceholder"                     = "请输入联系人电话";
+"addAdrsInforCellCkeckTitle"                               = "请输入正确手机号";
+
+// ChangePassViewController changePass 修改密码
+"changePassModifyPasswordNavigationTitle"                  = "修改密码";
+"changePassOldPasswordPlaceholder"                         = "请输入原密码";
+"changePassInputNewPasswordPlaceholder"                    = "请输入新密码";
+"changePassConfirmNewPasswordPlaceholder"                  = "确认新密码";
+"changePassSubmitButton"                                   = "提交";
+"changePassCheckNewPasswordsTitle"                         = "新密码不一致";
+"changePassCkeckOldPasswordsTitle"                         = "请确认密码";
+"changePassCkeckNewPasswordsNULLTitle"                     = "请输入新密码";
+"changePassCkeckOlePasswordsNULLTitle"                     = "请输入原始密码";
+
+//seegoodshistoryviewcontroller  浏览记录
+"seeGoodsHistoryViewControllerClearInfo"                   = "清空";
+"seeGoodsHistoryViewControllerSuccessInfo"                 = "成功清空历史记录";
+
+
+// MoreViewController  more 更多
+"moreNavigationTitle"                                      = "更多";
+"moreAboutApp"                                             = "关于App";
+"morePrivacyRights"                                        = "隐私权限";
+"moreFeedback"                                             = "意见反馈";
+"moreGiveMeAGrade"                                         = "给我打分";
+"moreUseHelp"                                              = "使用帮助";
+"moreCodeSharing"                                          = "二维码分享";
+"moreClearCache"                                           = "清理缓存";
+"moreExitLoginPromptTitle"                                 = "确定要注销吗？";
+"moreExitLogin"                                            = "退出登录";
+"moreExitLoginSuccess"                                     = "退出成功";
+"moreClearCachePromptTitle"                                = "本次将清理";
+"moreClearCacheSuccessPromptTitle"                         = "成功清理缓存";
+
+// OpinionViewController opinion 意见反馈
+"opinionPlaceholder"                                       = "请输入反馈内容...";
+"opinionTextMaxSize"                                       = "输入上限250字";
+
+
+// LoginViewController login 登录
+"loginNavigationTitle"                                     = "登录";
+"loginRegister"                                            = "注册";
+"loginAccountPlaceholder"                                  = "请输入邮箱";
+"loginPasswordPlaceholder"                                 = "请输入密码";
+"loginRememberPassword"                                    = "记住密码";
+"loginForgetPassword"                                      = "忘记密码?";
+"loginButtonTitle"                                         = "登录";
+"loginThirdPartyLoginPromptTitle"                          = "第三方账号登陆";
+"loginCleckAccountNULLMessage"                             = "邮箱不能为空";
+"loginCleckPasswordNULLMessage"                            = "密码不能为空";
+"loginCleckAccount"                                        = "请输入正确邮箱";
+"loginSuccess"                                             = "登录成功";
+
+// RegistViewController regist 注册
+"registNavigationTitle"                                    = "注册";
+"registAccountPlaceholder"                                 = "请输入邮箱";
+"registVerificationCodePlaceholder"                        = "验证码";
+"registGetVerificationCodeButtonTitle"                     = "获取验证码";
+"registPasswordAccountPlaceholder"                         = "请输入密码";
+"registButtonTitle"                                        = "注册";
+
+
+
+// ThirdRegistViewController thirdRegist 三方绑定
+"thirdRegistNavigationTitle"                               = "三方绑定";
+
+
+// ForgetPassViewController forgetPassword  忘记密码
+"forgetPasswordNavigationTitle"                            = "忘记密码";
+"forgetPasswordAccountPlaceholder"                         = "请输入邮箱";
+"forgetPasswordVerificationCodePlaceholder"                = "验证码";
+"forgetPasswordGetVerificationCodeButtonTitle"             = "获取验证码";
+"forgetPasswordNextStepButtonTitle"                        = "下一步";
+"forgetPasswordRetransmission"                             = "重发";
+"forgetPasswordCheckVerificationCode"                      = "验证码错误";
+
+
+// ChangeForgetPassViewController changeForgetPassword 忘记密码 修改密码
+"changeForgetPasswordNavigationTitle"                      = "忘记密码";
+"changeForgetPasswordAccountPlaceholder"                   = "请输入用户名";
+"changeForgetPasswordPleaseNewPassword"                    = "新密码";
+"changeForgetPasswordPleaseConfirmThePassword"             = "确认密码";
+
+
+// CateGoodsViewController  cateGoods 首页分类
+"cateGoodsSalesVolume"                                     = "销量";
+"cateGoodsPraise"                                          = "好评";
+"cateGoodsPrice"                                           = "价格";
+"cateGoodsScreen"                                          = "筛选";
+
+// SelectTypeViewController selectType 筛选
+
+"selectTypeNavigationTitle"                                = "筛选";
+"selectTypeSubmitButtonTitle"                              = "提交";
+"selectTypeKeywordTitle"                                   = "关键字";
+"selectTypeKeywordPlaceholder"                             = "输入搜索的关键字";
+"selectTypeHighPricePlaceholder"                           = "高价格";
+"selectTypeLowPricePlaceholder"                            = "低价格";
+"selectTypeAllTitle"                                       = "全部";
+
+// NearByShopViewController nearByShop 附近商家
+
+"nearByShopNavigationTitle"                                = "定位商家";
+
+"nearByShopLocationErrorTitle"                             = "定位失败";
+"nearByShopError01Title"                                   = "未获取到经纬度";
+"nearByShopNearbyTitle"                                    = "附近";
+"nearByShopCateTitle"                                      = "分类";
+
+// TeamBuyingViewController teamBuying 团购
+"teamBuyingNavigationTitle"                                = "团购";
+"teamBuyingCateTitle"                                      = "分类";
+"teamBuyingSorting"                                        = "排序";
+"teamBuyingSales"                                          = "销量";
+"teamBuyingTheLatestRelease"                               = "最新发布";
+"teamBuyingHighestPrice"                                   = "最高价格";
+"teamBuyingTheLowestPrice"                                 = "最低价格";
+
+
+// CateJumpViewController cateJump 抢购
+"cateJumpNavigationTitle"                                  = "抢购";
+"cateJumpSoldTitle"                                        = "已售:";
+
+// SeleRankViewController seleRank 排行榜
+
+"seleRankNavigationTitle"                                  = "排行榜";
+
+// SearchHisViewController searchHis 首页搜索
+"searchHisSearchResultsNavigationTitle"                    = "搜索结果";
+"searchHisSearchBarPlaceholder"                            = "请输入您搜索的商品";
+"searchHisHotCommodityTitle"                               = "热门商品";
+"searchHisSearchForRecordsTitle"                           = "搜索记录";
+"searchHisSearchBarCheckInputText"                         = "请输入搜索内容";
+
+
+// CateViewController cate 分类
+"cateSearchBarPlaceholder"                                 = "搜索商品名称";
+
+// ShopTravelServeViewController  shopTravelServe Title 商旅服务
+"shopTravelServeNavigationTitle"                           = "商旅服务";
+"shopTravelServeAirTicketBookingTitle"                     = "机票预定";
+"shopTravelServeTrainTicketReservationTitle"               = "火车票预订";
+"shopTravelServeInvitationServiceTitle"                    = "邀请函服务";
+"shopTravelServePick-upServiceTitle"                       = "接车服务";
+"shopTravelServePurchasingServiceTitle"                    = "代购服务";
+"shopTravelServeHotelsTitle"                               = "酒店预订";
+"shopTravelServeDiningReservationsTitle"                   = "餐饮预订";
+
+
+// PlaneBookViewController planeBook 机票服务
+"planeBookNavigationTitle"                                 = "机票服务";
+
+"planeBookOne-WayTitle"                                    = "单程";
+"planeBookRoundTripTitle"                                  = "往返";
+"planeBookDepartureCityTitle"                              = "出发城市";
+
+"planeBookArrivalCityTitle"                                = "到达城市";
+"planeBookSelectADateTitle"                                = "选择日期";
+"planeBookTripDatesTitle"                                  = "去程日期";
+
+"planeBookReturnTimeTitle"                                 = "返程时间";
+"planeBookSearchButtonTitle"                               = "下一步";
+
+"planeBookPleaseChooseTime"                                = "请选择时间";
+"planeBookRightTimeMessageTitle"                           = "请选择正确时间";
+
+
+// BackJourneyViewController backJourney 航班列表
+"backJourneyNavigationTitle"                               = "航班列表";
+
+// DestineViewController 预定
+//"destinePlaneBookNavigationTitle"                          = "预定"
+
+
+// ChoosePassengerViewController choosePassenger 选择乘机人
+"choosePassengerNavigationTitle"                           = "选择乘机人";
+"choosePassengerAddedOpportunityToPeople"                  = "新增乘机人";
+"choosePassengerCellPassportNumber"                        = "护照号码：";
+"choosePassengerCellEditor"                                = "编辑";
+
+// AddPassengerViewController addPassenger  添加乘机人
+"addPassengerNavigationTitle"                              = "新增乘机人";
+"addPassengerCellNameTitle"                                = "名称";
+"addPassengerCellPlaceholder"                              = "请输入姓名";
+"addPassengerCellPassportNumbeTitle"                       = "护照号码";
+"addPassengerCellPleaseEnterYourPassportNumberPlaceholder" = "请输入护照号码";
+"addPassengerCellCountryCitizenshipTitle"                  = "国籍";
+"addPassengerCellPeopleType"                               = "乘机人类型";
+"addPassengerAdult"                                        = "成人";
+"addPassengerChildren"                                     = "儿童";
+"alterPassengerNavigationTitle"                            = "修改乘机人";
+// RailwayTicketBookViewController railwayBook  火车票服务
+"railwayBookNavigationTitle"                               = "火车票服务";
+
+"railwayBookOne-WayTitle"                                  = "单程";
+"railwayBookRoundTripTitle"                                = "往返";
+"railwayBookDepartureCityTitle"                            = "出发城市";
+
+"railwayBookArrivalCityTitle"                              = "到达城市";
+"railwayBookSelectADateTitle"                              = "选择日期";
+"railwayBookTripDatesTitle"                                = "去程日期";
+
+"railwayBookReturnTimeTitle"                               = "返程时间";
+"railwayBookSearchButtonTitle"                             = "下一步";
+
+"railwayBookPleaseChooseTime"                              = "请选择时间";
+
+// TrainViewController  backTrain 车次列表
+"backTrainNavigationTitle"                                 = "车次列表";
+
+// ChooseViewController choose 选择乘机人
+"chooseNavigationTitle"                                    = "选择乘客";
+"chooseAddedOpportunityToPeople"                           = "新增乘客";
+"chooseCellPassportNumber"                                 = "护照号码：";
+"chooseCellEditor"                                         = "编辑";
+
+// AddViewController add  添加乘客
+"addNavigationTitle"                                       = "新增乘客";
+"addCellNameTitle"                                         = "名称";
+"addCellPlaceholder"                                       = "请输入姓名";
+"addCellPassportNumbeTitle"                                = "护照号码";
+"addCellPleaseEnterYourPassportNumberPlaceholder"          = "请输入护照号码";
+"addCellCountryCitizenshipTitle"                           = "国籍";
+"addCellPeopleType"                                        = "乘客类型";
+"addAdult"                                                 = "成人";
+"addChildren"                                              = "儿童";
+"addInputMessageTitle"                                     = "请输入完整信息";
+
+
+// InvitationServerViewController invitationServer  邀请函服务
+"invitationServerNavigationTitle"                          = "邀请函服务";
+"invitationServerCellNameTitle"                            = "名称";
+"invitationServerCellNamePlaceholder"                      = "请输入姓名";
+"invitationServerCellTelTitle"                             = "电话";
+"invitationServerCellTelPlaceholder"                       = "请输入电话";
+"invitationServerE-mailTitle"                              = "邮箱";
+"invitationServerE-mailPlaceholder"                        = "请输入E-mail";
+"invitationServerCountryCitizenshipTitle"                  = "国籍";
+"invitationServerSexTitle"                                 = "性别";
+"invitationServerBirthdayTitle"                            = "生日";
+"invitationServerDateOfEntryTitle"                         = "入境时间";
+"invitationServerInvitationTypesTitle"                     = "邀请函类型";
+"invitationServerValidityOfTheInvitationTitle"             = "邀请函时间 ";
+
+"invitationServerPassportPhotosTitle"                      = "护照照片与签证照片";
+"invitationServerVisaPhotosTitle"                          = "签证照片";
+"invitationServerInsurancePriceTitle"                      = "保险价格";
+"invitationServerSexTitle"                                 = "请选择性别";
+"invitationServerSexManTitle"                              = "男";
+"invitationServerSexWomanTitle"                            = "女";
+"invitationServerInvitationTypeTitle"                      = "请选择请选择邀请函类型";
+"invitationServerGroupTitle"                               = "团体";
+"invitationServerOnceAPersonTitle"                         = "个人一次";
+"invitationServerPersonalManyTimesTitle"                   = "个人多次";
+"invitationServerValidityPeriodGroupTitle"                 = "有效期 ( 团体 ) ";
+"invitationServerValidityPeriod10Days"                     = "10天";
+"invitationServerValidityPeriod15Days"                     = "15天";
+"invitationServerValidityPeriod30Days"                     = "30天";
+
+"invitationServerValidityPeriodOnceAPersonTitle"           = "有效期 ( 个人一次 )";
+"invitationServerValidityPeriodPersonalManyTimesTitle"     = "有效期 ( 个人多次 )";
+"invitationServerValidityPeriodHalfAYear"                  = "半年";
+"invitationServerValidityPeriodAYear"                      = "一年";
+"invitationServerCheckInputMessage"                        = "请输入完整信息";
+
+// CarServerViewController carServer  接车服务
+"carServerNavigationTitle"                                 = "接车服务";
+"carServerCellDateOfEntryTitle"                            = "入境日期";
+"carServerCellNationalityTitle"                            = "国籍";
+"carServerCellNameTitle"                                   = "姓名";
+"carServerCellNamePlaceholder"                             = "请输入姓名";
+"carServerCellTelephoneTitle"                              = "电话";
+"carServerCellTelephonePlaceholder"                        = "请输入电话";
+"carServerCellLicensePlateNumberTitle"                     = "车牌号";
+"carServerCellLicensePlateNumberPlaceholder"               = "请输入车牌号";
+"carServerCellFrameNumberTitle"                            = "车架号";
+"carServerCellFrameNumberPlaceholder"                      = "请输入车架号";
+"carServerCellEngineNumberTitle"                           = "发动机号";
+"carServerCellEngineNumberPlaceholder"                     = "请输入发动号";
+"carServerCellModelsTitle"                                 = "车型";
+"carServerCellDrivingLicensePhotoTitle"                    = "行驶证照片";
+"carServerCellPassportPhotoDriverTitle"                    = "司机护照照片";
+"carServerCellDestinationTitle"                            = "目的地";
+"carServerCellDestinationPlaceholder"                      = "请输入目的地";
+"carServerCellEntryModeTitle"                              = "入境方式";
+"carServerCellShiftTitle"                                  = "班次";
+"carServerCellArrivalTimeTitle"                            = "到达时间";
+"carServerCellPriceTitle"                                  = "价格";
+"carServerCheckUserInputMessageTitle"                      = "请输入完整信息";
+"carServerTicketAirImbalance"                              = "请输入班次(公路入境不需填写)";
+"carServerHighway"                                         = "公路";
+"carServerPlane"                                           = "飞机";
+"carServerTrain"                                           = "火车";
+"carServerChooseEnterACountryType"                         = "请选择入境方式";
+"carServerChooseCarType"                                   = "请选择车辆类型";
+"carServerFiveSeatCar"                                     = "5座";
+"carServerSevenSeatCar"                                    = "7-15座";
+"carServerTwelveSeatCar"                                   = "15座以上";
+
+// HotboomServeViewController hotboomServe Title Placeholder 接车服务
+"hotboomServeNavigationTitle"                              = "接车服务";
+"hotboomServeCellReferencePictureTitle"                    = "参考图片";
+"hotboomServeCellCommodityNameTitle"                       = "商品名称";
+"hotboomServeCellCommodityNamePlaceholder"                 = "请输入商品名称";
+"hotboomServeCellPriceRangeTitle"                          = "价格范围";
+"hotboomServeCellDetailedRequirementsTitle"                = "详细需求";
+"hotboomServeCellFullNameTitle"                            = "姓名";
+"hotboomServeCellFullNamePlaceholder"                      = "请输入姓名";
+"hotboomServeCellTelephoneTitle"                           = "电话";
+"hotboomServeCellTelephonePlaceholder"                     = "请输入电话";
+"hotboomServeCellE-mailTitle"                              = "邮箱";
+"hotboomServeCellE-mailPlaceholder"                        = "请输入E-mail";
+"hotboomServeCellPassportNumberTitle"                      = "护照号码";
+"hotboomServeCellPassportNumberPlaceholder"                = "护照号码";
+"hotboomServeViewControllerDetailNeedText"                 = "描述您需要的商品...";
+"hotboomServeViewControllerDetailNeedNavigaitonTitle"      = "详细需求";
+"hotboomServeViewControllerAddPickture"                    = "请添加图片";
+"hotboomServeViewControllerPriceRange"                     = "请输入正确价格范围";
+
+// HotboomPriceRangeViewController hotboomPriceRange  价格范围
+"hotboomPriceRangeNavigationTitle"                         = "价格范围";
+
+// BigTradeViewController bigTrade  大件贸易
+"bigTradeNavigationTitle"                                  = "大件贸易";
+"bigTradeAllCategoriesTitle"                               = "全部分类";
+"bigTradeDefaultSortTitle"                                 = "默认排序";
+"bigTradeHighestPriceSortTitle"                            = "价格最高";
+"bigTradeLowestPriceSortTitle"                             = "价格最低";
+
+// BigTradeInfoViewController bigTradeInfo 大件贸易 详情
+"bigTradeInfoNavigationTitle"                              = "详情";
+
+// BigTradeOrderViewController bigTradeOrder Title Placeholder 提交订单
+"bigTradeOrderNavigationTitle"                             = "提交订单";
+"bigTradeOrderReceiptAddressTitle"                         = "收货地址";
+"bigTradeOrderCommodityInformationTitle"                   = "商品信息";
+"bigTradeOrderRemarkInformationTitle"                      = "备注信息";
+"bigTradeOrderMoneyTitle"                                  = "总金额:";
+"bigTradeOrderRemarksPlaceholder"                          = "请输入备注信息";
+
+// BigTradeOrderSeccess bigTradeOrderSeccess
+"bigTradeOrderSeccessNavigationTitle"                      = "提交成功";
+"bigTradeOrderSeccessReturnHomeButtonTitle"                = "返回首页";
+
+// DestineRecordViewController  destineRecordView 预定记录 
+"destineRecordViewNavigationTitle"                         = "预定记录";
+"destineRecordPlaneTicketTitle"                            = "机票";
+"destineRecordTrainTicketTitle"                            = "火车票";
+"payOK"                                                    = "已支付";
+"payNO"                                                    = "未支付";
+
+"destineSucceed"                                           = "预定成功,请等待确认";
+"destineSucceedViewNavigationTitle"                        = "预定成功";
+
+// InternationalCityViewController  InternationalCity 国际城市
+"InternationalCityNavigationTitle"                         = "国际城市";
+
+// DestineViewController    预定 web 页
+"destineViewNavigationTitle"                               = "预定";
+
+// WebController  订单详情
+"orderNavigationTitle"                                     = "订单详情";
+
+// SeeGoodsHistoryViewController 浏览记录控制器
+//"seeGoodsHistoryViewControllerNavigationTitle"             = "浏览记录";
+
